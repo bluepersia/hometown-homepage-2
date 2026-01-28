@@ -4,4 +4,17 @@
     background-size: cover;
     padding: 7.43rem 0;
     color: var(--color-blank);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+.hero__title 
+{
+    background-color:var(--color-dark-blue);
+    font-size: 2rem;
+    padding: 0.31rem 0.75rem;
+    border-radius: .625rem;
+    margin-bottom: 0.68rem;
+}
+

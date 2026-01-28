@@ -13,6 +13,7 @@ img
 :root 
 {
     --color-blank: white;
+    --color-dark-blue: rgba(29, 53, 87, 1);
 }
 
 body 
