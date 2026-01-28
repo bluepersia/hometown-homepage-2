@@ -14,7 +14,13 @@
     background-color:var(--color-dark-blue);
     font-size: 2rem;
     padding: 0.31rem 0.75rem;
-    border-radius: .625rem;
     margin-bottom: 0.68rem;
 }
 
+.hero__body {
+    background-color: var(--color-light-blue);
+    max-width: 25.75rem;
+    padding: 0.43rem 1.75rem;
+    font-weight: 700;
+    font-size: 1.17rem;
+}
