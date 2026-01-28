@@ -1,0 +1,37 @@
+.guide {
+    padding: 3.125rem 0;
+    color: var(--color-dark-blue);
+}
+
+.guide__inner {
+    display: flex;
+    justify-content: space-between;
+    column-gap: .43rem;
+    align-items: center;
+    max-width: 25rem;
+    margin: 0 auto;
+    background-color: var(--color-light-turq);
+    padding: 1.43rem 0.81rem;
+}
+.guide__img 
+{
+    flex-basis: 50%;
+    width: 100%;
+}
+
+.guide__info {
+    flex-basis: 50%;
+}
+
+.guide__title {
+    margin-bottom: .875rem;
+}
+
+.guide__quote {
+    font-style: italic;
+    margin-bottom: 1.6rem;
+}
+
+.guide__name {
+    font-weight: bold;
+}
