@@ -1,0 +1,7 @@
+.hero
+{
+    background-image: url("/images/torshov.jpg");
+    background-size: cover;
+    padding: 7.43rem 0;
+    color: var(--color-blank);
+}
