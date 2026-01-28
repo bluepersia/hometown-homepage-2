@@ -1,0 +1,22 @@
+
+.activities{
+    background-color: var(--color-light-green);
+    padding: 2.43rem 2.125rem;
+}
+
+.activities__title 
+{
+    margin-bottom: 3.375rem;
+}
+
+.activities__list
+{
+    display: flex;
+    column-gap: 2rem;
+    list-style: none;
+    padding-left: 0;
+}
+
+.activities__item {
+    flex-basis: 33%;
+}
